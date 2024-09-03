@@ -8,7 +8,7 @@
 - [PYTHON BYTECODE](#python-bytecode)
 - [SỬ DỤNG AST ĐỂ TẠO OBF CODE](#sử-dụng-ast-để-tạo-obf-code)
 - [TƯ DUY VỀ OBF ,DEOBF](#tư-duy-về-obf-deobf)
-- [NHỮNG NGƯỜI ĐÃ GIÚP MÌNH TRONG THỜI GIAN THAM GIA MẢNG NÀY](#thank)
+- [DONATE](#thank)
 ## BUILTINS FUNCTION
 Đầu tiên là bước khởi đầu cho một xáo trộn cơ bản , khá là dễ khi bạn làm và sử dụng , dễ fix bug nhưng tính bảo mật thì ...
 ```python
